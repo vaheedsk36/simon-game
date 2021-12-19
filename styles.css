@@ -40,6 +40,7 @@ body {
   font-size: 5rem;
   color: black;
   margin: 2.1rem;
+  cursor:pointer;
 }
 
 .btn-label:hover{
